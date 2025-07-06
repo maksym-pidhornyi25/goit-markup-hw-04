@@ -414,7 +414,7 @@ img {
   color: #f4f4fd;
 }
 
-.portfolio-list-item:hover .ooverlay-descr {
+.portfolio-list-item:hover .overlay {
   transform: translatey(0%);
 }
 
